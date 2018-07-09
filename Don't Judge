@@ -1,0 +1,33 @@
+<!doctype html>
+<head>
+      <title> Don't Judge </title>
+</head>
+<body>
+  <h2>Shoes to Gaming</h2>
+  <p> I really don't know or care about having a favorite pair of shoes due to me being too focused on gaming.<p>
+    <h2>Luke isn't cool</h2>
+      <p>ikr<br>kidding doesn't matter</p>
+      <h3>Things I like to do</h3>
+      <div>
+      <ol>
+      <li>Nothing</li>
+    </ol>
+  </div>
+    <ul>
+      <li>Still nothing</li>
+    </ul>
+
+    <div>
+    <a href="https://naruto.oasgames.com/">Naruto<a/>
+    </div>
+<img src="https://dw9to29mmj727.cloudfront.net/promo/2016/5248-SeriesHeaders_NARSHP_2000x800.jpg"> </img>
+<form>
+  First name:<br>
+  <input type="text" name="firstname" placeholder= “First Name”><br>
+  Last name:<br>
+  <input type="text" name="lastname" placeholder=“Last Name”>
+
+</form>
+
+</body>
+<html>
